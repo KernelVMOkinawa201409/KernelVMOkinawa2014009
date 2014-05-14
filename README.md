@@ -4,13 +4,15 @@ KernelVMOkinawa2014009
 ## 発信予定の人達
 
 - MGWave すずきさん
-- Takuya ASADA さん
-- @yosukeota さん
-- 高専からも一名立候補がいる模様
+- Takuya ASADA さん (他に二名発表者がいらっしゃる模様です)
+- 琉球大学 @yosukeota さん、@shien さん
+- 沖縄高専 ヒノクマさん
+- 琉球大学 河野さん
 
 ## TODO
 
 - 日程 fix
+  - 9.21 Sun. の方向
 - タイムテーブル検討
 - 参加登録フォームの登録と発信
 - Ustream 関連リソース (機材など) の確保
